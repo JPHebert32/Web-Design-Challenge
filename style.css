@@ -1,49 +1,33 @@
-element.style {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 72px;
-}
+element.style {padding-top: 2px;
+               padding-bottom: 2px;
+               padding-left: 72px;}
 
-.bg-light {
-    background-color: #ffffff!important;
-}
+.bg-light {background-color: #ffffff!important;}
 
-.navbar-light .navbar-brand {
-    color: white;
-    background-color: #17a2b8;
-    font-size: 32px;
-    font-family: initial;
-}
+.navbar-light .navbar-brand {color: white;
+                             background-color: #17a2b8;
+                             font-size: 32px;
+                             font-family: initial;}
 
-.navbar-brand {
-    display: inline-block;
-    padding-top: .3125rem;
-    padding-bottom: .3125rem;
-    padding-right: .3125rem;
-    padding-left: .3125rem;
-    margin-right: 48.5rem;
-    margin-left: 3.0rem;
-    line-height: inherit;
-    white-space: nowrap;
-}
-a {
-    color: #007bff;
-    text-decoration: none;
-    background-color: transparent;
-}
-*, ::after, ::before {
-    box-sizing: border-box;
-    border-radius: 1px;
-}
+.navbar-brand {display: inline-block;
+               padding-top: .3125rem;
+               padding-bottom: .3125rem;
+               padding-right: .3125rem;
+               padding-left: .3125rem;
+               margin-right: 48.5rem;
+               margin-left: 3.0rem;
+               line-height: inherit;
+               white-space: nowrap;}
+    
+a {color: #007bff;
+   text-decoration: none;
+   background-color: transparent;}
 
+*, ::after, ::before {box-sizing: border-box;
+                      border-radius: 1px;}
 
+element.style {height: 40px;
+               padding-left: 10px;
+               padding-right: 10px;}
 
-element.style {
-    height: 40px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-..mr-auto, .mx-auto {
-    margin-left: auto;
-}
+..mr-auto, .mx-auto {margin-left: auto;}
